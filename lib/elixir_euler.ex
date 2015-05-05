@@ -1,0 +1,2 @@
+defmodule ElixirEuler do
+end
